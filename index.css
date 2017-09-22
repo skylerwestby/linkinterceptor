@@ -1,0 +1,48 @@
+/* Custom css goes here */
+
+
+
+/* _____Custom Colors_______*/
+
+body {
+  background-color: #f1f1f1;
+  font-family: 'Roboto Mono';
+}
+
+.bg-link{
+  background-image: url(img/links.jpg);
+  background-size: cover;
+}
+
+.bg-charade {
+  background-color: #282c34;
+}
+.charade {
+  color: #282c34;
+}
+
+.bg-persianblue {
+  background-color: #0034d2;
+}
+
+.persianblue {
+  color: #0034d2;
+}
+
+
+
+.bg-midnight {
+  background-color: #21252b;
+}
+
+.midnight {
+  color: #21252b;
+}
+
+.bg-nugray {
+  background-color: #9da5b4;
+}
+
+.nugray {
+  color: #9da5b4;
+}

@@ -1,0 +1,20 @@
+svg, html, body  {
+  box-sizing: border-box;
+  height:100%;
+  width:100%;
+  padding:0;
+  margin:0;
+}
+
+circle {
+  fill: rgba(0,0,0,0.5);
+  position: relative;
+  z-index: 100;
+}
+
+line {
+  stroke: rgba(0,0,0,0.05);
+  stroke-width: 1;
+  position: relative;
+  z-index:0;
+}
